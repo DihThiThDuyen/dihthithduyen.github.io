@@ -1,0 +1,8 @@
+Link Figma (chia sẻ ở chế độ view-only):
+https://www.figma.com/file/DAN_LINK_FIGMA_CUA_BAN_VAO_DAY
+
+Hướng dẫn:
+1. Mở file thiết kế trên Figma.
+2. Chọn Share > Anyone with the link > Can view.
+3. Copy link và dán đè lên dòng phía trên.
+4. Có thể export thêm ảnh chụp màn hình wireframe + mockup vào chung thư mục figma/ này (đặt tên wireframe.png, mockup.png).
